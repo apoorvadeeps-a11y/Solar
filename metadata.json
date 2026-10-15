@@ -1,0 +1,6 @@
+{
+  "name": "SuryaCheck - Solar Suitability Checker",
+  "description": "Interactive decision-tree simulation and preliminary rooftop solar suitability assessment prototype for India (SDG 7).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
